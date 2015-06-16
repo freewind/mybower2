@@ -13,6 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "aaa.js": "*"
+    "aaa.js": "2.0.0"
   }
 }
