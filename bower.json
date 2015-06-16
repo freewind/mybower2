@@ -13,6 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "aaa.js": "../aaajs"
+    "aaa.js": "*"
   }
 }
